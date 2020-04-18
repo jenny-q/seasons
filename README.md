@@ -1,3 +1,11 @@
+
+Seasons is a simple web app that determines what season it is based on your location.
+Built with Semantic UI and create-react-app.
+
+![alt text](https://github.com/jenny-q/seasons/blob/master/public/summer.png)
+![alt text](https://github.com/jenny-q/seasons/blob/master/public/winter.png)
+
+------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
